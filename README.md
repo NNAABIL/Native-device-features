@@ -2,7 +2,11 @@
 
 A new Flutter application.
 
-## Getting Started
+1-- in this app I used google maps to get user current location by using lication plugin
+2--I used google maps also to choose location on maps by using google_maps_flutter plugin
+and convert it to readable address by geocoding 
+3-- I stored my data in local database(title - image - latitude - longitude - address) in device by using sqflite pakage 
+4-- I used image_picker pakage to take photo and get its path by using path and path_provider pakages 
 
 This project is a starting point for a Flutter application.
 
